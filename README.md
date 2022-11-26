@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm /prehiro</h1>
+<h1 align="center">Hi 👋, I'm /prehiro</h1> <br>
+<div align="center">
+    
+<img src="https://github.com/prehiro/imghost/blob/main/pngwing.com.png?raw=true" align="center" style="width: 100%" />
+</div>
 <h3 align="center">A passionate $oftware Developer</h3>
 
 - 🔭 I’m currently working on **my bedroom**
