@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm /prehiro</h1> <br>
+<h1 align="center">Hi 👋, I'm /prehiro</h1>
+<h3 align="center">A passionate $oftware Developer</h3> <br>
 <div align="center">
-    
-<img src="https://github.com/prehiro/imghost/blob/main/pngwing.com.png?raw=true" align="center" style="width: 30%" />
+<img src="https://github.com/prehiro/imghost/blob/main/dev_img.png?raw=true" align="center" style="width: 30%" />
 </div>
-<h3 align="center">A passionate $oftware Developer</h3>
 
-- 🔭 I’m currently working on **my bedroom**
 
-- 🌱 I’m currently learning **fullstack technology**
+- 🔭 I’m currently working on **My Bedroom**
 
-- 🌟 I’m looking for help with **my imagination**
+- 🌱 I’m currently learning **Fullstack Technology**
 
-- 🎯 My goals to have **peacefull mind**
+- 🌟 I’m looking for help with **My Imagination**
+
+- 🎯 My goals to have **Peacefull Mind**
 
 - 🎸 I love playing **Bass**
 
-- ⚡ Fun fact : **i hate Coding!**
+- ⚡ Fun fact : **I Hate Coding!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
