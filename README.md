@@ -5,17 +5,17 @@
 </div>
 
 
-- 🔭 I’m currently working on **My Bedroom**
+- 🔭 I’m currently working on **My Bedroom**.
 
-- 🌱 I’m currently learning **Fullstack Technology**
+- 🌱 I’m currently learning **Fullstack Technology**.
 
-- 🌟 I’m looking for help with **My Imagination**
+- 🌟 I’m looking for help with **My Imagination**.
 
-- 🎯 My goals to have **Peacefull Mind**
+- 🎯 My goals to have **Peacefull Mind**.
 
-- 🎸 I love playing **Bass**
+- 🎸 I love playing **Bass**.
 
-- ⚡ Fun fact : **I Hate Coding!**
+- ⚡ Fun fact : **I Hate Coding!**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
